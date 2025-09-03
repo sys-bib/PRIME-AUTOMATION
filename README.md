@@ -2,6 +2,6 @@
 
 Requirement Tools :
 
-Java 11
-Code Editor (Intellij IDEA)
-Maven
+- Java 11
+- Code Editor (Intellij IDEA)
+- Maven
